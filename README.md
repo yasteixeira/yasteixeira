@@ -15,6 +15,6 @@
   <br>
   💬 Em caso de dúvidas: <a href="https://github.com/yasteixeira/yasteixeira/issues" title="Issues">Clique aqui</a>
   <br>
-  📲 Telefone para contato: <a href= "numero: (15) 991052182" >Clique aqui</a>
+  📲 Telefone para contato: <a href= "numero: (15) 991052182" >(15) 991052182</a>
 </p>
 
