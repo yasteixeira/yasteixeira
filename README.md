@@ -1,5 +1,4 @@
-# **Olá, meu nome é Yasmin Teixeira**
-# <code><a href="https://www.instagram.com/_yasteixeira" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>    
+# **Olá, meu nome é Yasmin Teixeira** # 
 </h5>
 
 <p align="center">
@@ -9,12 +8,12 @@
   <br>
   🎓 Me formei no ensino médio, em 2021, no colégio Anglo Sorocaba.
   <br>
-  📚 Participo do centro de inovação MAIA (Mobilidade Aplicada e Inteligência Artificial), atuando atualmente no projeto Donkey Car
+  📚 Faço estágio de Técnico em TI na Facens.
   <br>
-  📫 Meu contato: <a href="email: yteixeira04@hotmail.com">yteixeira04@hotmail.com</a>
+  📫 Meu contato: <a href="email: teixeyas@gmail.com">teixeyas@gmail.com</a>
   <br>
   💬 Em caso de dúvidas: <a href="https://github.com/yasteixeira/yasteixeira/issues" title="Issues">Clique aqui</a>
   <br>
-  📲 Telefone para contato: <a href= "numero: (15) 991052182" >(15) 991052182</a>
+  📲 Telefone para contato: <a href= "numero: (15) 991052182" >(15) 99105-2182</a>
 </p>
 
