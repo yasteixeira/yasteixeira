@@ -4,7 +4,7 @@
   <br>
  - 🎓 Estudante de Engenharia da Computação | Computer Engineering student;
  <br> 
- - 💬 Em caso de dúvidas: <a href="https://github.com/yasteixeira/yasteixeira/issues" title="Issues"> Clique Aqui</a> | In case of doubt:  <a href="https://github.com/yasteixeira/yasteixeira/issues" title="Issues"> Click Here</a>; 
+ - 💬 Em caso de dúvidas: <a href="https://github.com/yasteixeira/yasteixeira/issues" title="Issues"> Clique Aqui</a> | In case of issues:  <a href="https://github.com/yasteixeira/yasteixeira/issues" title="Issues"> Click Here</a>; 
  <br>
  - 📚 Estágio de Técnico em TI | Information Techonology Intern;
   <br>
